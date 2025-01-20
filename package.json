@@ -46,7 +46,7 @@
     "react-native-cache": "^2.0.3",
     "react-native-gesture-handler": "~2.22.0",
     "react-native-hyperlink": "^0.0.22",
-    "react-native-pager-view": "6.6.1",
+    "react-native-pager-view": "6.7.0",
     "react-native-paper": "^5.12.3",
     "react-native-reanimated": "~3.16.0",
     "react-native-safe-area-context": "^5.0.0",
